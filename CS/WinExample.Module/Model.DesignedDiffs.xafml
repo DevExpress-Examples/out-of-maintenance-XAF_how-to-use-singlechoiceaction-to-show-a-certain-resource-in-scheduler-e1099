@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="WinExample" Logo="ExpressAppLogo">
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="14.2.12.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <ListView Id="MyEvent_ListView" AllowEdit="True" />
+  </Views>
+</Application>
