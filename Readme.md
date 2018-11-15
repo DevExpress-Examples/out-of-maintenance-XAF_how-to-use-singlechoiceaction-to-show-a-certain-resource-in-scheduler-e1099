@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[FilterResourcesController.cs](./CS/WinExample.Module.Win/FilterResourcesController.cs) (VB: [FilterResourcesController.vb](./VB/WinExample.Module.Win/FilterResourcesController.vb))**
+* [MyEvent.cs](./CS/WinExample.Module/MyEvent.cs) (VB: [MyEvent.vb](./VB/WinExample.Module/MyEvent.vb))
+* [MyUser.cs](./CS/WinExample.Module/MyUser.cs) (VB: [MyUser.vb](./VB/WinExample.Module/MyUser.vb))
+<!-- default file list end -->
 # How to use SingleChoiceAction to show a certain resource in Scheduler
 
 
